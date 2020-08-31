@@ -1,0 +1,268 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name":"Pizza",
+      "image": "/images/pizza.png",
+      "category": "mains",
+      "label":"Hot",
+      "price":"Rs. 1999",
+      "featured": "true",
+      "description": " A delicious item in the hall. There is an offer of BUY 1 and GET 1 FREE. This is limited time ."
+      },
+      {
+      "id": 1,
+      "name":"Fruitica",
+      "image": "/images/fruitsalad.png",
+      "category": "appetizer",
+      "label":" ",
+      "price":"Rs. 999",
+      "featured": false,
+      "description":"A juicy salad that will make you and your mood classy. Try it for once and for sure you will come for this again."
+      },
+      {
+      "id": 2,
+      "name":"Basturma",
+      "image": "/images/bazturma.png",
+      "category": "main",
+      "label":"New",
+      "price":"Rs. 1599",
+      "featured": false,
+      "description":"The famous dish of Pakwan is here. Try it and be its fan forever."
+      },
+      {
+      "id": 3,
+      "name":"Cheese Cake",
+      "image": "/images/cheesecake.png",
+      "category": "dessert",
+      "label":" ",
+      "price":"Rs. 299",
+      "featured": false,
+      "description":"Light sweet that will make a happy ending to your meal. Its easy to digest."
+      }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "dishId": 0,
+      "rating": 5,
+      "comment": "Great taste with great sitting!",
+      "author": "Uzair Ahmed",
+      "date": "2020-05-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Got similar feeling the way i eat at my own house!",
+      "author": "Mubashir Ali",
+      "date": "2020-05-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "dishId": 0,
+      "rating": 3,
+      "comment": "It was great to it but couldn't find good appetizer!",
+      "author": "Ilyas Hussain",
+      "date": "2020-08-02T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Alas, Finally found something amazing to eat in Islamabad!",
+      "author": "Itizaz Adil",
+      "date": "2020-08-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "dishId": 0,
+      "rating": 2,
+      "comment": "No birthday bookings allowed, made us disappointed!",
+      "author": "Imran Bhatti",
+      "date": "2020-02-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "dishId": 1,
+      "rating": 5,
+      "comment": "Great to visit this place!",
+      "author": "Asaad Cheema",
+      "date": "2020-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "My best wishes are with you guys. Doing great job!",
+      "author": "Abdul Basit",
+      "date": "2020-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "dishId": 1,
+      "rating": 3,
+      "comment": "It was good but presentation needs to be improved!",
+      "author": "Qurat ul Ain",
+      "date": "2020-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Come hungry and be happy at the end.",
+      "author": "Zabasih",
+      "date": "2020-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "dishId": 1,
+      "rating": 2,
+      "comment": "Disappointment with food. Needs to be fully cooked!",
+      "author": "Hassan Khaliq",
+      "date": "2020-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "dishId": 2,
+      "rating": 5,
+      "comment": "Great taste with great sitting!",
+      "author": "Uzair Ahmed",
+      "date": "2020-05-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Got similar feeling the way i eat at my own house!",
+      "author": "Mubashir Ali",
+      "date": "2020-05-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "dishId": 2,
+      "rating": 3,
+      "comment": "It was great to it but couldn't find good appetizer!",
+      "author": "Ilyas Hussain",
+      "date": "2020-08-02T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Alas, Finally found something amazing to eat in Islamabad!",
+      "author": "Itizaz Adil",
+      "date": "2020-08-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "dishId": 2,
+      "rating": 2,
+      "comment": "No birthday bookings allowed, made us disappointed!",
+      "author": "Imran Bhatti",
+      "date": "2020-02-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "dishId": 3,
+      "rating": 5,
+      "comment": "Great to visit this place!",
+      "author": "Asaad Cheema",
+      "date": "2020-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "My best wishes are with you guys. Doing great job!",
+      "author": "Abdul Basit",
+      "date": "2020-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "dishId": 3,
+      "rating": 3,
+      "comment": "It was good but presentation needs to be improved!",
+      "author": "Qurat ul Ain",
+      "date": "2020-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Come hungry and be happy at the end.",
+      "author": "Zabasih",
+      "date": "2020-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "dishId": 3,
+      "rating": 2,
+      "comment": "Disappointment with food. Needs to be fully cooked!",
+      "author": "Hassan Khaliq",
+      "date": "2020-12-02T17:57:28.556094Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "label": "New",
+      "price": "Rs.5999",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six basturmas, six lahmajuns and five falafil. Fries and soft drinks. All for just Rs. 5999 per person"
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Aftab Hussain",
+      "image": "images/aftabhussain.png",
+      "designation": "Chief Executive Officer",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Our CFO, Aftab Hussain, is father of the owner. He is been taking care of fresh food supply daily along with the environment cleaning problems to be rectified as well. This is an amazing thing to see both working together to put efforts to bring you quality food along with comfort of eating at a place where things seems to be great."
+    },
+    {
+      "id": 1,
+      "name": "Asad Aftab",
+      "image": "images/asadaftab.png",
+      "designation": "Chief Food Officer",
+      "abbr": "CFO",
+      "featured": false,
+      "description": "Our Owner, Asad Aftab, is by profession an engineer. he has great travel history and was inspired from Syrian Foods alot."
+    },
+    {
+      "id": 2,
+      "name": "Aftab Hussain",
+      "image": "images/aftabhussain.png",
+      "designation": "Chief Technical Officer",
+      "abbr": "CTO",
+      "featured": false,
+      "description": "Our CFO, Aftab Hussain, is father of the owner. He is been taking care of fresh food supply daily along with the environment cleaning problems to be rectified as well. This is an amazing thing to see both working together to put efforts to bring you quality food along with comfort of eating at a place where things seems to be great."
+    },
+    {
+      "id": 3,
+      "name": "Asad Aftab",
+      "image": "images/asadaftab.png",
+      "designation": "Executive Chef",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Our Owner, Asad Aftab, is by profession an engineer. he has great travel history and was inspired from Syrian Foods alot."
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Asad ",
+      "lastname": "Aftab",
+      "telnum": "03489909857",
+      "email": "asadaftabmalik@gmail.com ",
+      "agree": true,
+      "contactType": "Email",
+      "message": "Need booking for Birthday",
+      "date": "2020-09-04T09:41:49.890Z",
+      "id": 1
+    }
+  ]
+}
